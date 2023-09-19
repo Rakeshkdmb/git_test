@@ -1,0 +1,3 @@
+Hi, I am Rakesh!
+Currently I am learning Full Stack Web Development from The Odin Project(TOP).
+According to me TOP is the best plateform to learn webdevelopment.
